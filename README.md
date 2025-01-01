@@ -17,7 +17,7 @@ The dashboard plots the coronavirus world statistics in the form of clusters on 
 
 ## Top Language
 
-[![GitHub top language](https://img.shields.io/github/languages/top/anmolpant/Covid-19-Dashboard?logo=jupyter&style=social)](https://github.com/anmolpant/)
+[![GitHub top language](https://img.shields.io/github/languages/top/anmolpant/Covid-19-Dashboard?logo=jupyter&style=social)]
 
 ## Instructions
 
